@@ -2,15 +2,15 @@
 
 ### Social
 
-🍾 [proseccojs](https://twitter.com/proseccojs) 
+🍾 [@proseccojs](https://twitter.com/proseccojs) 
 
-💁 [javascripthers](https://twitter.com/javascripthers) 
+💁 [@javascripthers](https://twitter.com/javascripthers) 
 
-🍸 [ginjs_london](https://twitter.com/ginjs_london) 
+🍸 [@ginjs_london](https://twitter.com/ginjs_london) 
 
-🍣 [sushi_js](https://twitter.com/sushi_js) 
+🍣 [@sushi_js](https://twitter.com/sushi_js) 
 
-🎳 [BowlingJS](https://twitter.com/BowlingJS) 
+🎳 [@BowlingJS](https://twitter.com/BowlingJS) 
 
 ### Learning
 
@@ -22,14 +22,14 @@
 
 ## Particular Tech 
 
-⬢ [LNUGorg](https://twitter.com/LNUGorg)
+⬢ [@LNUGorg](https://twitter.com/LNUGorg)
 
-🤓 [EmberLondon](https://twitter.com/EmberLondon)
+🤓 [@EmberLondon](https://twitter.com/EmberLondon)
 
-☢ [londonreact](https://twitter.com/londonreact)
+☢ [@londonreact](https://twitter.com/londonreact)
 
-λ [funjsldn](https://twitter.com/funjsldn)
+λ [@funjsldn](https://twitter.com/funjsldn)
 
-🆖 [AngularLondon](https://twitter.com/AngularLondon)
+🆖 [@AngularLondon](https://twitter.com/AngularLondon)
 
-⚗ [angularjs_labs](https://twitter.com/angularjs_labs)
+⚗ [@angularjs_labs](https://twitter.com/angularjs_labs)
