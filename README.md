@@ -24,6 +24,8 @@
 
 ⬢ [@LNUGorg](https://twitter.com/LNUGorg)
 
+🙋 [@nodegirls_LDN ](https://twitter.com/nodegirls_LDN )
+
 🤓 [@EmberLondon](https://twitter.com/EmberLondon)
 
 ☢ [@londonreact](https://twitter.com/londonreact)
