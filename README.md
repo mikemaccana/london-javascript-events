@@ -2,34 +2,34 @@
 
 ### Social
 
-🍾 @proseccojs 
+🍾 [proseccojs](https://twitter.com/proseccojs) 
 
-💁 @javascripthers 
+💁 [javascripthers](https://twitter.com/javascripthers) 
 
-🍸 @ginjs_london 
+🍸 [ginjs_london](https://twitter.com/ginjs_london) 
 
-🍣 @sushi_js 
+🍣 [sushi_js](https://twitter.com/sushi_js) 
 
-🎳 @BowlingJS 
+🎳 [BowlingJS](https://twitter.com/BowlingJS) 
 
 ### Learning
 
-🎓 @FrontEndLondon 
+🎓 [@FrontEndLondon](https://twitter.com/FrontEndLondon)
 
-✅ @webstandards 
+✅ [@webstandards](https://twitter.com/webstandards) 
 
-👨‍👩‍👧‍👦 @london_JS 
+👨‍👩‍👧‍👦  [@londonjs Community](https://twitter.co/london_js)
 
 ## Particular Tech 
 
-⬢ @LNUGorg
+⬢ [LNUGorg](https://twitter.com/LNUGorg)
 
-🤓 @EmberLondon
+🤓 [EmberLondon](https://twitter.com/EmberLondon)
 
-☢ @londonreact 
+☢ [londonreact](https://twitter.com/londonreact)
 
-λ @funjsldn 
+λ [funjsldn](https://twitter.com/funjsldn)
 
-🆖 @AngularLondon
+🆖 [AngularLondon](https://twitter.com/AngularLondon)
 
-⚗ @angularjs_labs
+⚗ [angularjs_labs](https://twitter.com/angularjs_labs)
