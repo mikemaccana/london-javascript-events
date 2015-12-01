@@ -8,6 +8,10 @@
 
 🍸 @ginjs_london 
 
+🍣 @sushi_js 
+
+🎳 @BowlingJS 
+
 ### Learning
 
 🎓 @FrontEndLondon 
@@ -15,10 +19,6 @@
 ✅ @webstandards 
 
 👨‍👩‍👧‍👦 @london_JS 
-
-🍣 @sushi_js 
-
-🎳 @BowlingJS 
 
 ## Particular Tech 
 
