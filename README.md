@@ -18,7 +18,7 @@
 
 ✅ [@webstandards](https://twitter.com/webstandards) 
 
-👨‍👩‍👧‍👦  [@londonjs Community](https://twitter.co/london_js)
+👨‍👩‍👧‍👦  [@londonjs Community](https://twitter.com/london_js)
 
 ## Particular Tech 
 
