@@ -1,6 +1,6 @@
 ## London JavaScript Events
 
-### Social
+### Community
 
 🍾 [@proseccojs](https://twitter.com/proseccojs) 
 
